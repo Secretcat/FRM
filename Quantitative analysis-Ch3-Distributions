@@ -1,0 +1,8 @@
+it is more often easier to work with log returns and normal distributions than with standard returns and lognormal 
+distributions.
+
+iid:independent and identically distributed
+
+the i.i.d. assumption, combined with the central limit theorem, allows us to approximate a large collection of data using
+a normal distribution.
+

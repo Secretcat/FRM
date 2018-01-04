@@ -1,0 +1,9 @@
+If we want to forecast a series, at a minimum we'd like its mean and its covariance structure(i.e., the covariances between
+current and past values) to be stable over time, in which case we say that the series is covariance statinary.
+
+quantifying stability of the covariance structure is a bit tricky, but tremendously important, and we do it using the
+autocovariance function.
+if the covariance structure is stable over time, as required by covariance stationarity, then the autocovariances depend
+only on displacement, T, not on time t, and we write:
+Y(t,T)=Y(T)
+

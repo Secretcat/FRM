@@ -1,0 +1,3 @@
+one way to deal with seasonality in a series is simply to remove it and then to model and forecast the seasonally adjusted
+time series.
+

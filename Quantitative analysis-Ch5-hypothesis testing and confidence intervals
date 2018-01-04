@@ -1,0 +1,8 @@
+the mean of our sample mean is the true mean of the distribution.
+
+subadditivity is basically a fancy way of saying that diversification is good, and a good risk meansure should reflect that.
+
+Two criticism of VaR:
+1, no subadditivity
+2, VaR does not tell us anyting about the tail of the distribution
+
